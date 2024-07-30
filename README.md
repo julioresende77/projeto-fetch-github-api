@@ -7,7 +7,7 @@
 Projeto utilizando **API** do *GitHub* feito com **JavaScript** para fazer busca de usuarios do *GitHub*.
 
 ### Preview do projeto😁
-<img src="./src/img/Gif-projeto-fetch-github-api.mp4" alt="gif ultilizando o projeto com API do GitHub">
+<img src="./src/img/Gif-projeto-github-api.gif" alt="gif ultilizando o projeto com API do GitHub">
 
 
 ## Como utilizar
