@@ -1,16 +1,16 @@
-# Primeiro Projeto ultilizando uma API
+# Primeiro Projeto utilizando uma API
 
 ### [Repositorio](https://github.com/julioresende77/projeto-fetch-github-api/)
 
 ### [Site](https://julioresende77.github.io/projeto-fetch-github-api/)
 
-Projeto ultilizando **API** do *GitHub* feito com **JavaScript** para fazer busca de usuarios do *GitHub*.
+Projeto utilizando **API** do *GitHub* feito com **JavaScript** para fazer busca de usuarios do *GitHub*.
 
 ### Preview do projeto😁
 <img src="./src/img/Gif-projeto-fetch-github-api.mp4" alt="gif ultilizando o projeto com API do GitHub">
 
 
-## Como ultilizar
+## Como utilizar
 - Insira o nome de um usuário do Github e clique em buscar para mostrar algumas informações do usuário.
 
 ## Clone o projeto
